@@ -14,6 +14,6 @@
     "skipLibCheck": true
   },
   "include": [
-    "C:/learn/beginners-typescript-tutorial/src/02-object-param.problem.ts"
+    "C:/learn/beginners-typescript-tutorial/src/18-function-types-with-promises.problem.ts"
   ]
 }
